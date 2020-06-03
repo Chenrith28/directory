@@ -1,0 +1,67 @@
+.name{
+  margin:5rem 15rem 5rem 13rem;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.head{
+  margin-bottom: 2rem;
+}
+.buttonCity{
+   padding: 10px 20px;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 16px;
+
+}
+.menu{
+  margin:2rem 0 3rem 13rem;
+}
+.sort-form{
+  text-align: right;
+}
+.live{
+    background-color: #f7f7f7;
+    margin-top: 3rem;
+}
+.Room{
+
+    margin:2rem 12rem 3rem 12rem;
+}
+.Card4{
+ box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.top-thing{
+  margin-bottom: 2rem;
+}
+.sta{
+  color:#ffc60b;
+}
+.no-link{
+  color: black;
+}
+.page-button{
+  text-align: center;
+}
+.footer-set{
+  margin-left: 19rem;
+  margin-right: 15rem;
+}
+.Text-ex{
+  margin-top: 5rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #1b6ca8;
+  font-family: 'Arvo', serif;
+}
+.country{
+  font-family: 'Arvo', serif;
+}
+.word{
+  font-family: 'Raleway', sans-serif;
+}
